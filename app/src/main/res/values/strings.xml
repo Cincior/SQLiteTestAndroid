@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteTraining</string>
+    <string name="Title">Test SQLite</string>
+    <string name="btnText">Add +</string>
+</resources>
